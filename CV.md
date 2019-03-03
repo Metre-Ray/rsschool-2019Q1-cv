@@ -35,6 +35,7 @@ ________________________________________
     Position: developer  
     Tasks: personal page of author, language change, some styling  
     Environment: HTML, CSS, JavaScript, React, Webpack  
+    
 ________________________________________
 ## Education
 The Rolling Scopes School (https://school.rollingscopes.com/), 09.2018 - 03.2019  
