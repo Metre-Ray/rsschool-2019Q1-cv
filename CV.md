@@ -3,10 +3,10 @@
 **Telephone number**: +375336006697  
 **E-mail**: dgary@tut.by  
 **Github**: https://github.com/metre-ray  
-**English**: B1
+**English**: B1  
 ________________________________________
 ## Summary of Qualifications 	
-Novice frontend-developer. Confident knowledge of HTML, CSS, JavaScript. 
+Novice frontend-developer. Confident knowledge of HTML, CSS, JavaScript.  
 ________________________________________
 ## Technical Skills
 **Programming languages and technologies**: JavaScript, HTML, CSS, Python  
@@ -16,7 +16,7 @@ ________________________________________
 ## Work Experience
 August 2017 - Present  
 Institute of physiology of The National Academy of Sciences of Belarus  
-Junior Researcher
+Junior Researcher  
 ________________________________________
 ## Projects
 - ### Youtube client  
@@ -37,7 +37,7 @@ ________________________________________
     Environment: HTML, CSS, JavaScript, React, Webpack  
 ________________________________________
 ## Education
-The Rolling Scopes School (https://school.rollingscopes.com/), 09.2018 - 03.2019   
+The Rolling Scopes School (https://school.rollingscopes.com/), 09.2018 - 03.2019  
 
 Belarusian State University, Minsk, Belarus, 2012 - 2017  
 Specialist (Bachelor Degree) – Physics (Biophysics)  
