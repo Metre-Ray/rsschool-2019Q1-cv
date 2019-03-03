@@ -1,7 +1,7 @@
 # Diana Loiko 
 **Location**: Minsk, Belarus  
 **Telephone number**: +375336006697  
-**E-mail**: [dgary@tut.by](dgary@tut.by)  
+**E-mail**: dgary@tut.by 
 **Github**: [https://github.com/metre-ray](https://github.com/metre-ray)  
 **English**: B1  
 
