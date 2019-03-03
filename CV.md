@@ -4,19 +4,23 @@
 **E-mail**: dgary@tut.by  
 **Github**: https://github.com/metre-ray  
 **English**: B1  
+
 ________________________________________
 ## Summary of Qualifications 	
 Novice frontend-developer. Confident knowledge of HTML, CSS, JavaScript.  
+
 ________________________________________
 ## Technical Skills
 **Programming languages and technologies**: JavaScript, HTML, CSS, Python  
 **Frameworks and Libraries**: React  
 **Tools**: GIT, Webpack, VS Code  
+
 ________________________________________
 ## Work Experience
 August 2017 - Present  
 Institute of physiology of The National Academy of Sciences of Belarus  
 Junior Researcher  
+
 ________________________________________
 ## Projects
 - ### Youtube client  
