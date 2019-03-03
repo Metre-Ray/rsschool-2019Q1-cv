@@ -1,7 +1,7 @@
 # Diana Loiko 
 **Location**: Minsk, Belarus  
 **Telephone number**: +375336006697  
-**E-mail**: dgary@tut.by 
+**E-mail**: dgary@tut.by  
 **Github**: [https://github.com/metre-ray](https://github.com/metre-ray)  
 **English**: B1  
 
@@ -35,7 +35,7 @@ ________________________________________
     Environment: HTML, CSS, JavaScript, Webpack
 - ### Website about some of belarusian filmmakers  
     Project: [https://metre-ray.github.io/DreamTeam/ver2/html/index.html](https://metre-ray.github.io/DreamTeam/ver2/html/index.html)  
-        [https://metre-ray.github.io/DreamTeam/ver2/html/authors/Korsh-Sablin.html](https://metre-ray.github.io/DreamTeam/ver2/html/authors/Korsh-Sablin.html)  
+             [https://metre-ray.github.io/DreamTeam/ver2/html/authors/Korsh-Sablin.html](https://metre-ray.github.io/DreamTeam/ver2/html/authors/Korsh-Sablin.html)  
     Position: developer  
     Tasks: personal page of author, language change, some styling  
     Environment: HTML, CSS, JavaScript, React, Webpack  
